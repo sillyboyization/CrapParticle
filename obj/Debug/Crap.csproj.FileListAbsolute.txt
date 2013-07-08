@@ -1,0 +1,6 @@
+D:\MyStuffs\Programming\C\Crap\Crap\bin\Debug\Crap.exe.config
+D:\MyStuffs\Programming\C\Crap\Crap\bin\Debug\Crap.exe
+D:\MyStuffs\Programming\C\Crap\Crap\bin\Debug\Crap.pdb
+D:\MyStuffs\Programming\C\Crap\Crap\obj\Debug\Crap.csprojResolveAssemblyReference.cache
+D:\MyStuffs\Programming\C\Crap\Crap\obj\Debug\Crap.exe
+D:\MyStuffs\Programming\C\Crap\Crap\obj\Debug\Crap.pdb
